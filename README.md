@@ -1,2 +1,2 @@
 # emma
-Proyecto Institucional para el Control de Colecciones
+Proyecto Institucional para del Control de Colecciones
